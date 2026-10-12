@@ -221,3 +221,18 @@ Currently, the project has minimal formal testing infrastructure:
 - Health check endpoints for monitoring
 - Sentry integration for error tracking
 - Telemetry for usage analytics (non-sensitive data only)
+## Publicações de redes sociais da Gráfica J2D (Instagram / stories)
+
+Preferências do Jairo para posts e stories. Seguir sempre que ele pedir uma publicação.
+
+- **Negócio:** a Gráfica J2D faz **impressão digital e corte a laser**. Não fazemos offset. Nunca citar offset nos textos.
+- **Especialidade do Jairo:** sistemas de informação e inteligência artificial.
+- **Tema das curiosidades:** preferir boas práticas e informações úteis de **IA e informática aplicadas ao ambiente gráfico**
+  (resolução e dpi, RGB x CMYK, vetor x bitmap, formatos de arquivo, uso correto de IA para gerar artes, backup, segurança de arquivos).
+  Evitar curiosidades soltas sem utilidade prática. O conteúdo deve trazer benefício real ao cliente.
+- **Precisão:** conferir contas e fatos antes de publicar (ex.: 1024 px ÷ 300 dpi × 2,54 = 8,7 cm). Não afirmar serviços ou materiais que a J2D não confirmou.
+- **Formato:** stories em **1080×1920** (vertical), com margem de segurança de ~190 px no topo e ~240 px na base. Post de feed só se o Jairo pedir (1080×1350).
+- **Identidade visual:** fundo azul-escuro (#0d1b2a) com manchas nas cores CMYK, fonte Inter, logo oficial em `grafica-j2d-landing-page/src/assets/logo-j2d-27bae.png`,
+  rodapé com "Gráfica J2D · Impressão digital e corte a laser" e um botão de chamada para ação.
+- **Fluxo:** montar a arte em HTML, renderizar em PNG com Playwright, enviar ao Jairo para aprovar e entregar também a legenda/texto sugerido em português (PT-BR).
+- **Já publicados:** "O K do CMYK vem de Key" e "Imagem de IA de 1024 px imprime só 8,7 cm". Não repetir esses temas.
