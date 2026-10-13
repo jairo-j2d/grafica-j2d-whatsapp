@@ -235,4 +235,8 @@ Preferências do Jairo para posts e stories. Seguir sempre que ele pedir uma pub
 - **Identidade visual:** fundo azul-escuro (#0d1b2a) com manchas nas cores CMYK, fonte Inter, logo oficial em `grafica-j2d-landing-page/src/assets/logo-j2d-27bae.png`,
   rodapé com "Gráfica J2D · Impressão digital e corte a laser" e um botão de chamada para ação.
 - **Fluxo:** montar a arte em HTML, renderizar em PNG com Playwright, enviar ao Jairo para aprovar e entregar também a legenda/texto sugerido em português (PT-BR).
-- **Já publicados:** "O K do CMYK vem de Key" e "Imagem de IA de 1024 px imprime só 8,7 cm". Não repetir esses temas.
+- **Modelo preferido (aprovado e elogiado pelo Jairo):** stories de **dicas de boas práticas** com selo "Boa prática",
+  título curto em forma de pergunta e resposta, comparação visual lado a lado (errado ✕ magenta / certo ✓ ciano),
+  passo a passo numerado ("Como fazer") e um alerta curto antes do rodapé. Priorizar esse formato.
+- **Já publicados:** "O K do CMYK vem de Key", "Imagem de IA de 1024 px imprime só 8,7 cm" e
+  "Arte pelo WhatsApp? Envie como documento". Não repetir esses temas.
