@@ -239,4 +239,8 @@ Preferências do Jairo para posts e stories. Seguir sempre que ele pedir uma pub
   título curto em forma de pergunta e resposta, comparação visual lado a lado (errado ✕ magenta / certo ✓ ciano),
   passo a passo numerado ("Como fazer") e um alerta curto antes do rodapé. Priorizar esse formato.
 - **Já publicados:** "O K do CMYK vem de Key", "Imagem de IA de 1024 px imprime só 8,7 cm" e
-  "Arte pelo WhatsApp? Envie como documento". Não repetir esses temas.
+  "Arte pelo WhatsApp? Envie como documento" e "Você sabia? As cores deste escudo não são pintadas" (vídeo exploded do escudo).
+  Não repetir esses temas.
+- **Stories em vídeo:** vídeos de produto (ex.: efeito "Exploded View Loop" da Higgsfield, ~36 créditos por geração) recebem
+  camada de texto por cima com ffmpeg, deixando o produto livre no centro. Sempre terminam com uma **vinheta de ~1,5 s com o logo da J2D**
+  (logo grande, "Impressão digital e corte a laser" e "Chama no direct"), depois de deixar a frase final do vídeo aparecer inteira.
