@@ -244,7 +244,8 @@ Preferências do Jairo para posts e stories. Seguir sempre que ele pedir uma pub
 - **Stories em vídeo:** vídeos de produto (ex.: efeito "Exploded View Loop" da Higgsfield, ~36 créditos por geração) recebem
   camada de texto por cima com ffmpeg, deixando o produto livre no centro. Sempre terminam com a **vinheta do logo da J2D com EFEITO LASER** (padrão do Jairo):
   um feixe de laser grava o logo de cima para baixo soltando faíscas, depois contorna a borda do círculo; em seguida entram
-  "Gráfica J2D", "Impressão digital e corte a laser" e "Chama no direct". Antes da vinheta, deixar a frase final do vídeo
+  "Gráfica J2D", "Impressão digital e corte a laser" e "Chama no direct". A vinheta tem **som de laser** sincronizado
+  (zumbido do cabeçote, chiado, estalos das faíscas, "zap" no contorno), e o **áudio original do vídeo deve ser mantido**. Antes da vinheta, deixar a frase final do vídeo
   aparecer inteira (congelar ~0,9 s) e fazer transição suave. Fundo da vinheta = último quadro do vídeo desfocado; detalhes em dourado.
   Referência: as vinhetas originais com laser estão entre os vídeos enviados à Higgsfield (7 a 10/out/2026); pedir um exemplo ao Jairo
   se precisar copiar o estilo exato, pois a rede da sessão bloqueia o download desses arquivos.
